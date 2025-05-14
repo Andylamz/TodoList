@@ -5,10 +5,18 @@ Tasks can be added, edited, deleted, and are saved in the browser using localSto
 
 ## Features
 
-- Add and delete tasks
-- Edit task content
-- Tasks are saved in localStorage
-- No backend required (fully frontend)
+- Add, edit and delete tasks
+- Tasks are saved in localStorage for persistence
+- New tasks appear at the top of the list (latest first)
+- Form input is automatically cleared after submission
+
+## UI Enhancement
+
+- Icons (edit, delete) via [Font Awesome](https://fontawesome.com/)
+
+## Demo
+
+[Live Demo on Netlify](https://zesty-cat-660d95.netlify.app/)
 
 ## Screenshots
 
